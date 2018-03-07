@@ -1,13 +1,12 @@
 ---
-title: "Database Administrators Appreciation Day"
+title: "6th July 2018 - DBA Appreciation Day"
 date: 2018-01-26T07:13:31Z
 draft: false
 ---
 
 
-## First Database Administrators Appreciation Day
+## Database Administrators Appreciation Day 2018
 
-### 6th July 2018
 
 Is your business data safely stored?
 Is your data security taken care?
