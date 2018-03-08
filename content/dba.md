@@ -10,7 +10,7 @@ Being a database administrator is weird. The job is a strange combination of the
 
 The DBA is likely one of the most obscure and one of the less appreciated roles within the IT organisations.
 
-Their efforts are pretty invisible and they are seen as grumpy and not approachable.
+Their efforts are pretty invisible and they are seen as [grumpy and not approachable](http://www.sqlskills.com/insidercontent/201204/20120416newsletter.pdf).
 
 However Database administration's work happens behind the scenes, with no fanfares. Often the carefully planned operations happen during the weekends or in antisocial hours. They strive to keep the business up running but nobody knows.
 
