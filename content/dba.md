@@ -6,15 +6,15 @@ menu: "main"
 banner: "/images/winter_storm.jpg"
 ---
 
-Being a database administrator is weird. The job is a strange combination of theory and practice, strictness and loose rules mix together in a magic blend.
+Database administration is weird. The job is a strange combination of theory and practice, strictness and loose rules mixed together in a magic blend.
 
-The DBA is likely one of the most obscure and one of the less appreciated roles within the IT organisations.
+The DBA is probably one of the most obscure and one of the less appreciated roles within the IT organisations.
 
-Their efforts are pretty invisible and they are seen as [grumpy and not approachable](http://www.sqlskills.com/insidercontent/201204/20120416newsletter.pdf).
+Hard working goes pretty unnoticed and DBA are perceived as [grumpy and not approachable](http://www.sqlskills.com/insidercontent/201204/20120416newsletter.pdf).
 
-However Database administration's work happens behind the scenes, with no fanfares. Often the carefully planned operations happen during the weekends or in antisocial hours. They strive to keep the business up running but nobody knows.
+DBA's work happens behind the scenes, with no fanfares, often the carefully planned operations are on the weekends or in antisocial hours. The DBA strives to keep the business up running but nobody knows.
 
-## It's the DBA day, show your appreciation!
+## Say thank you  to your DBA!
 
 The 6th of July 2018 is the first Database Administrators Appreciation Day.
 
