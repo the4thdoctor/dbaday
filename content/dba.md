@@ -32,6 +32,12 @@ Suggestions for showing appreciation to your DBA.
 * Words of gratitude
 * Do not deploy that migration that will shut down the database forcing the DBA to work over the week end to bring it back
 
-### Stay social!
+Whether you are a DBA or not please, share [www.dbaday.org](http://www.dbaday.org/) with your team mates and follow [the dba day's twitter account](https://twitter.com/dba_day).
 
-Share your words of appreciation on [twitter](https://twitter.com/), [facebook](https://www.facebook.com/), [google plus](https://plus.google.com/) using the hashtag #dbaday.
+
+
+## Share the love
+
+Please follow [the dba day's twitter account](https://twitter.com/dba_day) and twit about the event using the hashtag #dbaday.
+
+The day of the event please, share your words of appreciation on [twitter](https://twitter.com/), [facebook](https://www.facebook.com/), [google plus](https://plus.google.com/) using the hashtag #dbaday.
