@@ -16,7 +16,7 @@ DBA's work happens behind the scenes, with no fanfares, often the carefully plan
 
 ## Say thank you  to your DBA!
 
-The 6th of July 2018 is the first Database Administrators Appreciation Day.
+The 5th of July 2019 is the first Database Administrators Appreciation Day.
 
 If the business data is safely stored, if the business data is secure and the operations run smoothly, it's because you've got an awesome database administrator.
 
