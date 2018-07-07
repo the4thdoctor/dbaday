@@ -1,5 +1,5 @@
 title = "DBA Appreciation Day"
-baseURL = "http://dbaday.org"
+baseURL = "http://www.dbaday.org"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
