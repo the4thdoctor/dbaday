@@ -2,6 +2,7 @@ title = "DBA Appreciation Day"
 baseURL = "http://www.dbaday.org"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+cacheDir= "/tmp/hugo_dbaday/"
 
 
 MetaDataFormat = "yaml"
