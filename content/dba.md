@@ -1,5 +1,5 @@
 ---
-title: "DBA a life in the shadows"
+title: "Say thank you to your DBA"
 date: 2018-01-26T07:13:31Z
 draft: false
 menu: "main"
