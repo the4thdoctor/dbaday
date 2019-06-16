@@ -32,7 +32,7 @@ Suggestions for showing appreciation to your DBA.
 * Words of gratitude
 * Do not deploy that migration that will shut down the database forcing the DBA to work over the week end to bring it back
 
-Whether you are a DBA or not please, share [www.dbaday.org](http://www.dbaday.org/) with your team mates and follow [the dba day's twitter account](https://twitter.com/dba_day).
+Whether you are a DBA or not please, share [dbaday.org](https://dbaday.org/) with your team mates and follow [the dba day's twitter account](https://twitter.com/dba_day).
 
 
 
@@ -65,3 +65,8 @@ Please save the image on your hosting then use one of this html snippet to put i
 </a>
 
 {{< /highlight >}}
+
+## Further readings
+
+* [DBAs are grumpy and not approachable (PDF)](http://www.sqlskills.com/insidercontent/201204/20120416newsletter.pdf)
+* [Why are dbas so grumpy all the time (PDF)](https://www.postgresql.eu/events/nordicpgday2018/sessions/session/1887/slides/69/grumpy.pdf)
