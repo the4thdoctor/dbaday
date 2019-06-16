@@ -3,7 +3,7 @@ title: "More info"
 date: 2018-01-26T07:13:31Z
 draft: false
 menu: "main"
-banner: "/images/winter_storm.jpg"
+featured_image: "/images/winter_storm.jpg"
 ---
 
 Database administration is weird. The job is a strange combination of theory and practice, strictness and loose rules mixed together in a magic blend.
@@ -41,3 +41,27 @@ Whether you are a DBA or not please, share [www.dbaday.org](http://www.dbaday.or
 Please follow [the dba day's twitter account](https://twitter.com/dba_day) and twit about the event using the hashtag #dbaday.
 
 The day of the event please, share your words of appreciation on [twitter](https://twitter.com/), [facebook](https://www.facebook.com/), [google plus](https://plus.google.com/) using the hashtag #dbaday.
+
+If you want to put a banner on your website with a link back to [dbaday.org](https://dbaday.org/) you can use those.
+
+{{< figure src="/files/dbaday_220_191.jpg" title="banner 220x191" class="dbaday_banner" alt="banner 220x191" link="https://dbaday.org/files/dbaday_220_191.jpg">}}
+{{< figure src="/files/dbaday_300_260.jpg" title="banner 300x260" class="dbaday_banner" alt="banner 300x260" link="https://dbaday.org/files/dbaday_300_260.jpg">}}
+{{< figure src="/files/dbaday_600_520.jpg" title="banner 600x520" class="dbaday_banner" alt="banner 600x520" link="https://dbaday.org/files/dbaday_600_520.jpg">}}
+
+Please save the image on your hosting then use one of this html snippet to put it on your website (you may need to change the src location).
+
+{{< highlight html >}}
+
+<a href="https://dbaday.org" >
+  <img src="/img/banners/dbaday_220_191.jpg" alt="dbaday.org" title="The database administrators appreciation day" >
+</a>
+
+<a href="https://dbaday.org" >
+  <img src="/img/banners/dbaday_300_260.jpg" alt="dbaday.org" title="The database administrators appreciation day" >
+</a>
+
+<a href="https://dbaday.org" >
+  <img src="/img/banners/dbaday_600_520.jpg" alt="dbaday.org" title="The database administrators appreciation day" >
+</a>
+
+{{< /highlight >}}
