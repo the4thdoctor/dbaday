@@ -20,6 +20,6 @@ The 5th July 2019 give the gift of recognition to your DBA.
 
 <table>
   <tr>
-    <td>{{< figure src="/images/sponsors/logo-web-transparent.png" caption="Hosting and connectivity" alt="Kamedata" class="sponsors" link="https://kamedata.com">}}</td>
+    <td>{{< figure src="images/sponsors/logo-web-transparent.png" caption="Hosting and connectivity" alt="Kamedata" class="sponsors" link="https://kamedata.com">}}</td>
   </tr>
 </table>
