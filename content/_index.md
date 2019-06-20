@@ -18,8 +18,5 @@ The 5th July 2019 give the gift of recognition to your DBA.
 
 ## Thanks to our sponsors for supporting and endorsing the DBADay 2019
 
-<table>
-  <tr>
-    <td>{{< figure src="/images/logos/logo-web-transparent.png" caption="Hosting and connectivity" alt="Kamedata" class="sponsors" link="https://kamedata.com">}}</td>
-  </tr>
-</table>
+<div class="sponsors">{{< figure src="/images/logos/logo-scylla-RGB-simple-2000px.jpg"  alt="Kamedata" class="sponsors" link="https://www.scylladb.com/">}}</div>
+<div class="sponsors">{{< figure src="/images/logos/logo-web-transparent.png" alt="Kamedata" class="sponsors" link="https://kamedata.com">}}</div>
