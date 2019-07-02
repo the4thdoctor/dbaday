@@ -70,3 +70,8 @@ Please save the image on your hosting then use one of this html snippet to put i
 
 * [DBAs are grumpy and not approachable (PDF)](http://www.sqlskills.com/insidercontent/201204/20120416newsletter.pdf)
 * [Why are dbas so grumpy all the time (PDF)](https://www.postgresql.eu/events/nordicpgday2018/sessions/session/1887/slides/69/grumpy.pdf)
+
+## Thanks to our sponsors for supporting and endorsing the DBADay 2019
+
+<div class="sponsors">{{< figure src="/images/logos/logo-scylla-RGB-simple.png"  alt="Kamedata" class="sponsors" link="https://www.scylladb.com/">}}</div>
+<div class="sponsors">{{< figure src="/images/logos/logo-web-transparent.png" alt="Kamedata" class="sponsors" link="https://kamedata.com">}}</div>
