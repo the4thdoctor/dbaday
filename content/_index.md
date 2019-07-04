@@ -3,6 +3,9 @@ title: "5th July 2019 - DBA Appreciation Day"
 date: 2018-01-26T07:13:31Z
 draft: false
 ---
+<div class="twitter-container">
+<a class="twitter-timeline" data-width="300" data-height="900" href="https://twitter.com/dba_day?ref_src=twsrc%5Etfw">Tweets by dba_day</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
 
 # Database Administrators Appreciation Day 2019, 2nd Annual
 

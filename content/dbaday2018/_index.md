@@ -14,4 +14,5 @@ It seems the word is spreading and hopefully the next year there will be an even
 
 Below there is the twitter moment with the twits tagged with #dbaday.
 
-<a class="twitter-moment" href="https://twitter.com/i/moments/1014927654062034952?ref_src=twsrc%5Etfw">DBAday 2018</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-moment" href="https://twitter.com/i/moments/1014927654062034952?ref_src=twsrc%5Etfw">DBAday 2018</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
