@@ -12,7 +12,7 @@ The top 3 visiting nations are USA (791 visitors), UK (289) and India (92).
 
 It seems the word is spreading and hopefully the next year there will be an even better DBAday.
 
-Below there is the twitter moment with the twits tagged with #dbaday.
+Below there is the twitter moment with the tweets tagged with #dbaday.
 
 <a class="twitter-moment" href="https://twitter.com/i/moments/1014927654062034952?ref_src=twsrc%5Etfw">DBAday 2018</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -31,8 +31,3 @@ enableRobotsTXT = true
   featured_image = "/images/winter_storm.jpg"
   recent_posts_number = 2
   env = "production"
-
-  [[menu.main]]
-      name = "#dbaday on Twitter"
-      url  = "https://twitter.com/hashtag/dbaday"
-      weight = 1
