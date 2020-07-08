@@ -1,8 +1,8 @@
 ---
-title: "DBAday 2019"
+title: "DBADay 2019"
 date: 2019-07-05T07:13:31Z
 draft: false
-
+weight: 3
 ---
 
 The second annual DBAday happened the 5th July 2019.

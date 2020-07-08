@@ -4,6 +4,7 @@ date: 2018-01-26T07:13:31Z
 draft: false
 menu: "main"
 featured_image: "/images/winter_storm.jpg"
+weight: 1
 ---
 
 Database administration is weird. The job is a strange combination of theory and practice, strictness and loose rules mixed together in a magic blend.
@@ -16,7 +17,7 @@ DBA's work happens behind the scenes, with no fanfares, often the carefully plan
 
 ## Say thank you  to your DBA!
 
-The 3rd of July 2020 is the Database Administrators Appreciation Day.
+The 2nd July 2021 is the Database Administrators Appreciation Day.
 
 If the business data is safely stored, if the business data is secure and the operations run smoothly, it's because you've got an awesome database administrator.
 

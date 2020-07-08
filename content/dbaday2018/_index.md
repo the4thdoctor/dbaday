@@ -1,7 +1,8 @@
 ---
-title: "DBAday 2018"
+title: "DBADay 2018"
 date: 2018-07-06T07:13:31Z
 draft: false
+weight: 4
 ---
 
 The very first DBAday happened the 6th July 2018.
