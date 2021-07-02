@@ -11,7 +11,7 @@ draft: false
 
 If your business data is safely stored?
 Is your data security taken care?
-Is your datatabase running safe and sound?
+Is your database running safe and sound?
 
 This doesn't happen by magic but just because you've got an awesome **database administrator**.
 
