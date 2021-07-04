@@ -19,7 +19,7 @@ This doesn't happen by magic but just because you've got an awesome **database a
 
 Database administrators usually work behind the scenes, over the **weekends and antisocial hours** in order to look after the database which is at **the core of any business**.
 
-The 1st July 2021 give the gift of recognition to your DBA.
+The 1st July 2022 give the gift of recognition to your DBA.
 {{< figure src="/images/winter_storm.jpg" alt="Winter storm" class="center">}}
 ## Thanks to our sponsors for supporting and endorsing the DBADay 2022
 
