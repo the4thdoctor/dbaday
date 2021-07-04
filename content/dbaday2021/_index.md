@@ -14,3 +14,5 @@ This year the site performed worse than last year. We need more efforts to sprea
 
 Anyway see you to the next DBADay!
 
+<a class="twitter-moment" href="https://twitter.com/i/moments/1410809545430011904?ref_src=twsrc%5Etfw">DBADAY 2021</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
