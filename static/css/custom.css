@@ -24,6 +24,14 @@ figure.sponsors
   padding-bottom: 0rem;
 }
 
+div.center
+{
+  max-width: 500px;
+  text-align: center;
+  min-height: 250px;
+}
+
+
 div.sponsors
 {
   float:left;
