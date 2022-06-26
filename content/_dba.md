@@ -41,7 +41,7 @@ Whether you are a DBA or not please, share [dbaday.org](https://dbaday.org/) wit
 
 Please follow [the dba day's twitter account](https://twitter.com/dba_day) and twit about the event using the hashtag #dbaday.
 
-The day of the event please, share your words of appreciation on [twitter](https://twitter.com/), [facebook](https://www.facebook.com/), [google plus](https://plus.google.com/) using the hashtag #dbaday.
+The day of the event please, share your words of appreciation on [twitter](https://twitter.com/) using the hashtag #dbaday.
 
 If you want to put a banner on your website with a link back to [dbaday.org](https://dbaday.org/) you can use those.
 

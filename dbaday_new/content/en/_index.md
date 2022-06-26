@@ -1,5 +1,5 @@
 ---
-title: "1st July 2022 - DBA Appreciation Day"
+title: "DBA Appreciation Day 2022"
 date: 2021-07-03T07:13:31Z
 draft: false
 cascade:
@@ -9,7 +9,7 @@ cascade:
 <a class="twitter-timeline" data-width="300" data-height="900" href="https://twitter.com/dba_day?ref_src=twsrc%5Etfw">Tweets by dba_day</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-# Database Administrators Appreciation Day 2022, 5th Annual
+#  DBA Appreciation Day 2022. 1st July, 5th Annual
 
 
 
@@ -23,6 +23,4 @@ Database administrators usually work behind the scenes, over the **weekends and 
 
 The 1st July 2022 give the gift of recognition to your DBA.
 {{< figure src="/images/winter_storm.jpg" alt="Winter storm" class="center">}}
-## Thanks to our sponsors for supporting and endorsing the DBADay 2022
-{{< figure src="/images/logos/logo-web-transparent.png" alt="Kamedata" class="sponsors" link="https://kamedata.com">}}
-{{< figure src="/images/logos/logo-scylla-RGB-simple.png"  alt="Kamedata" class="sponsors" link="https://www.scylladb.com/">}}
+
