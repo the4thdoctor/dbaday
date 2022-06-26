@@ -33,3 +33,11 @@ figure.sponsors
   max-width: 70em;
 }
 
+div.sponsors
+{
+  float:left;
+  padding-left: 10px;
+  max-width: 500px;
+  text-align: center;
+  min-height: 250px;
+}
