@@ -1,0 +1,35 @@
+.twitter-container{
+  display: block;
+  width: 300px;
+  float: right;
+  padding-left: 50px;
+}
+.dbaday_banner img{
+  width: auto;
+}
+
+figure.sponsors
+{
+  width: 100%;
+}
+.pv4-l,.pv5
+{
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  text-align: left;
+  margin-right: 20em;
+}
+
+.pb7
+{
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+
+}
+
+
+.measure-wide
+{
+  max-width: 70em;
+}
+
