@@ -8,7 +8,7 @@ resourceDir = "../resources"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "G-WXHB8EW8LZ"
+#googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
@@ -39,5 +39,6 @@ enableRobotsTXT = true
   date_format = "2006-01-02"
   name = "twitter"
   twitter = "https://twitter.com/dba_day"
+  env = "production"
 
 
