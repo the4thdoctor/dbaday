@@ -4,7 +4,7 @@ date: 2018-01-26T07:13:31Z
 draft: false
 menu: "main"
 featured_image: "/images/winter_storm.jpg"
-weight: 20
+weight: 25
 ---
 
 Database administration is weird. The job is a strange combination of theory and practice, strictness and loose rules mixed together in a magic blend.
