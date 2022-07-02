@@ -9,7 +9,7 @@ The fifth annual DBAday happened the 1st July 2022.
 
 The website during the day got 1,663.
 
-The top 3 visiting countries are USA (908), India (569),  and Germany (130).
+The top 3 visiting countries are USA (708), India (530),  and Germany (120).
 
 This year the site performed better than last year. 
 
