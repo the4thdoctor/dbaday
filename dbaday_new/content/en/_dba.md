@@ -17,7 +17,7 @@ DBA's work happens behind the scenes, with no fanfares, often the carefully plan
 
 ## Say thank you  to your DBA!
 
-The 1st July 2022 is the Database Administrators Appreciation Day.
+The 7th July 2023 is the Database Administrators Appreciation Day.
 
 If the business data is safely stored, if the business data is secure and the operations run smoothly, it's because you've got an awesome database administrator.
 
