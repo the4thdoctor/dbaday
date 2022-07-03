@@ -1,5 +1,5 @@
 ---
-title: "DBA Appreciation Day 2022"
+title: "DBA Appreciation Day 2023"
 date: 2021-07-03T07:13:31Z
 draft: false
 cascade:
@@ -9,8 +9,7 @@ cascade:
 #  DBA Appreciation Day 2023. 7th July, 6th Annual
 
 
-
-If your business data is safely stored?
+Is your business data is safely stored?
 Is your data security taken care?
 Is your database running safe and sound?
 
