@@ -6,12 +6,14 @@ cascade:
   featured_image: '/images/winter_storm.jpg'
 ---
 
-#  DBA Appreciation Day 2023. 7th July, 6th Annual
+#  DBA Appreciation Day
+## The DBA Appreciation Day is an annual event happening the first Friday of July
 
+The DBA Day 2023 will be the 7th July 2023
 
-Is your business data is safely stored?
-Is your data security taken care?
-Is your database running safe and sound?
+* Is it your business data is safely stored?
+* Is it your data security taken care?
+* Is it your database running safe and sound?
 
 This doesn't happen by magic but just because you've got an awesome **database administrator**.
 
