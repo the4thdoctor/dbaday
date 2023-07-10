@@ -2,7 +2,7 @@
 title: "2018"
 date: 2018-07-06T07:13:31Z
 draft: false
-weight: 5
+weight: 6
 ---
 
 # Database Administrators Appreciation Day 2018, 1st Annual

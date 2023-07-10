@@ -17,8 +17,6 @@ DBA's work happens behind the scenes, with no fanfares, often the carefully plan
 
 ## Say thank you  to your DBA!
 
-The 7th July 2023 is the Database Administrators Appreciation Day.
-
 If the business data is safely stored, if the business data is secure and the operations run smoothly, it's because you've got an awesome database administrator.
 
 Let's shout loud **Happy DBA Day!**
@@ -33,15 +31,11 @@ Suggestions for showing appreciation to your DBA.
 * Words of gratitude
 * Do not deploy that migration that will shut down the database forcing the DBA to work over the week end to bring it back
 
-Whether you are a DBA or not please, share [dbaday.org](https://dbaday.org/) with your team mates and follow [the dba day's twitter account](https://twitter.com/dba_day).
-
+Whether you are a DBA or not please, share the website [dbaday.org](https://dbaday.org/) with your team mates.
 
 
 ## Share the love
 
-Please follow [the dba day's twitter account](https://twitter.com/dba_day) and twit about the event using the hashtag #dbaday.
-
-The day of the event please, share your words of appreciation on [twitter](https://twitter.com/) using the hashtag #dbaday.
 
 If you want to put a banner on your website with a link back to [dbaday.org](https://dbaday.org/) you can use those.
 
