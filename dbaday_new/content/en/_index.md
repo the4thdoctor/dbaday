@@ -9,7 +9,7 @@ cascade:
 #  DBA Appreciation Day
 ## The DBA Appreciation Day is an annual event happening the first Friday of July
 
-The DBA Day 2023 will be the 5th July 2024
+The DBA Day 2024 will be the 5th July 2024
 
 * Is it your business data is safely stored?
 * Is it your data security taken care?
