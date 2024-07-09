@@ -11,7 +11,7 @@ The website during the day received 1,343 visitors.
 
 This year the site performed slightly worse than the last year. 
 
-The announcement on [linkedin](https://www.linkedin.com/analytics/post-summary/urn:li:activity:7082964680985501697/)  got about 3.6k impressions 5 repost and 43 reactions. 
+The announcement on [linkedin](https://www.linkedin.com/posts/federicocampoli_dbaday-database-dba-activity-7214913104193716225-3B0D)  got about 3.6k impressions 5 repost and 43 reactions. 
 
 
 See you to the next DBADay!
