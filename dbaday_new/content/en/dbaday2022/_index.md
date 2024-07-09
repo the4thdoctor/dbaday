@@ -2,7 +2,7 @@
 title: "2022"
 date: 2021-07-03T07:13:31Z
 draft: false
-weight: 2
+weight: 3
 ---
 # Database Administrators Appreciation Day 2022, 5th Annual
 The fifth annual DBAday happened the 1st July 2022.

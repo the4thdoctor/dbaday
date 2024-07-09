@@ -37,8 +37,8 @@ enableRobotsTXT = true
   featured_image = "/images/winter_storm.jpg"
   custom_css = ["css/custom.css"]
   date_format = "2006-01-02"
-  name = "twitter"
-  twitter = "https://twitter.com/dba_day"
+  name = "mastodon"
+  mastodon = "https://mastodon.social/@dbaday"
   env = "production"
 
 

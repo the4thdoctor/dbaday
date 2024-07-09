@@ -1,5 +1,5 @@
 ---
-title: "DBA Appreciation Day 2024"
+title: "DBA Appreciation Day 2025"
 date: 2021-07-03T07:13:31Z
 draft: false
 cascade:
@@ -9,7 +9,7 @@ cascade:
 #  DBA Appreciation Day
 ## The DBA Appreciation Day is an annual event happening the first Friday of July
 
-The DBA Day 2024 will be the 5th July 2024
+The next DBA Day will be the 4th July 2025
 
 * Is it your business data is safely stored?
 * Is it your data security taken care?
@@ -19,7 +19,7 @@ This doesn't happen by magic but just because you've got an awesome **database a
 
 Database administrators usually work behind the scenes, over the **weekends and antisocial hours** in order to look after the database which is at **the core of any business**.
 
-The 5th July 2024 give the gift of recognition to your DBA.
+The 4th July 2025 give the gift of recognition to your DBA.
 
 You can find the DBADay along with other PostgreSQL related events on the [“PostgreSQL Event Calendar”](https://calendar.google.com/calendar/u/0?cid=NTdhMGEwM2E0OTI1NzAwYTFiZGZlZWYyMGNiYjM0MTMzMGFhMzQzM2ViZTY3OGU5ZDVjZDM0ZjYwNWEyZmQ5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 

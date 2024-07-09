@@ -2,7 +2,7 @@
 title: "2019"
 date: 2019-07-05T07:13:31Z
 draft: false
-weight: 5
+weight: 6
 ---
 # Database Administrators Appreciation Day 2019, 2nd Annual
 The second annual DBAday happened the 5th July 2019.

@@ -2,7 +2,7 @@
 title: "2020"
 date: 2020-07-07T07:13:31Z
 draft: false
-weight: 4
+weight: 5
 ---
 # Database Administrators Appreciation Day 2020, 3rd Annual
 The third annual DBAday happened the 3rd July 2020.

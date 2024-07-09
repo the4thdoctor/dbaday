@@ -2,7 +2,7 @@
 title: "2021"
 date: 2021-07-03T07:13:31Z
 draft: false
-weight: 3
+weight: 4
 ---
 # Database Administrators Appreciation Day 2021, 4th Annual
 The fourth annual DBAday happened the 2nd July 2021.
