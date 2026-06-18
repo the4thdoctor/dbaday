@@ -2,7 +2,7 @@
 title: "2024"
 date: 2021-07-03T07:13:31Z
 draft: false
-weight: 1
+weight: 2
 ---
 # Database Administrators Appreciation Day 2024, 7th Annual
 The sixth annual DBAday happened the 5th July 2024.

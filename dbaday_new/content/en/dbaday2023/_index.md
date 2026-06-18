@@ -2,7 +2,7 @@
 title: "2023"
 date: 2021-07-03T07:13:31Z
 draft: false
-weight: 2
+weight: 3
 ---
 # Database Administrators Appreciation Day 2023, 6th Annual
 The sixth annual DBAday happened the 7st July 2023.
