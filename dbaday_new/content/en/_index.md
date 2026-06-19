@@ -1,5 +1,5 @@
 ---
-title: "DBA Appreciation Day 2025"
+title: "DBA Appreciation Day"
 date: 2021-07-03T07:13:31Z
 draft: false
 cascade:
